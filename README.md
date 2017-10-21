@@ -1,5 +1,7 @@
 # socket.io
 ```bash
-    $ npm install socket.io@1
-    $ node socket.io.server.js
+    $ npm install
+    $ npm start
 ```
+
+https://socket.io/get-started/chat/
